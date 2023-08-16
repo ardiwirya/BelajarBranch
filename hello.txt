@@ -1,1 +1,1 @@
-tes branch commit
+tes branch commit untuk menyelesaikan CONFLICT pada saat MERGE BRANCH
